@@ -1,0 +1,10 @@
+A:\Users\ntart\source\repos\SquareInterface\SquareInterface\bin\Debug\SquareInterface.exe.config
+A:\Users\ntart\source\repos\SquareInterface\SquareInterface\bin\Debug\SquareInterface.exe
+A:\Users\ntart\source\repos\SquareInterface\SquareInterface\bin\Debug\SquareInterface.pdb
+A:\Users\ntart\source\repos\SquareInterface\SquareInterface\obj\Debug\SquareInterface.csproj.AssemblyReference.cache
+A:\Users\ntart\source\repos\SquareInterface\SquareInterface\obj\Debug\SquareInterface.Form1.resources
+A:\Users\ntart\source\repos\SquareInterface\SquareInterface\obj\Debug\SquareInterface.Properties.Resources.resources
+A:\Users\ntart\source\repos\SquareInterface\SquareInterface\obj\Debug\SquareInterface.csproj.GenerateResource.cache
+A:\Users\ntart\source\repos\SquareInterface\SquareInterface\obj\Debug\SquareInterface.csproj.CoreCompileInputs.cache
+A:\Users\ntart\source\repos\SquareInterface\SquareInterface\obj\Debug\SquareInterface.exe
+A:\Users\ntart\source\repos\SquareInterface\SquareInterface\obj\Debug\SquareInterface.pdb

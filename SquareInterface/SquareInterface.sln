@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32802.440
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HalfSquare", "HalfSquare\HalfSquare.csproj", "{0D91739C-E9DD-4716-AEA8-00EC1BCDC1DE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareInterface", "SquareInterface\SquareInterface.csproj", "{AC5A23B8-77EF-4749-9096-895391C327F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0D91739C-E9DD-4716-AEA8-00EC1BCDC1DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0D91739C-E9DD-4716-AEA8-00EC1BCDC1DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0D91739C-E9DD-4716-AEA8-00EC1BCDC1DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0D91739C-E9DD-4716-AEA8-00EC1BCDC1DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC5A23B8-77EF-4749-9096-895391C327F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5A23B8-77EF-4749-9096-895391C327F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5A23B8-77EF-4749-9096-895391C327F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5A23B8-77EF-4749-9096-895391C327F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {306B7CEC-F339-4381-96BE-64A8D3970C7F}
+		SolutionGuid = {07DA8B69-5B15-4B56-9F51-1C64E89ADAE6}
 	EndGlobalSection
 EndGlobal
